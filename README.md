@@ -15,10 +15,10 @@ Este repositório contém uma configuração Docker Compose para implantar cont�
 
 Crie um arquivo .env no diretório do projeto e defina as variáveis de ambiente necessárias:
 
-MYSQL_ROOT_PASSWORD
-MYSQL_DATABASE
-MYSQL_USER
-MYSQL_PASSWORD
+MYSQL_ROOT_PASSWORD <br>
+MYSQL_DATABASE <br>
+MYSQL_USER <br>
+MYSQL_PASSWORD <br>
 
 Inicie os serviços:
 docker-compose up -d
